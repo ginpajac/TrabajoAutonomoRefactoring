@@ -1,1 +1,2 @@
 # TrabajoAutonomoRefactoring
+Ginger Jacome Hidalgo
