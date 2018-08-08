@@ -1,2 +1,2 @@
-# TrabajoAutonomoRefactoring
-Ginger Jacome Hidalgo
+# Trabajo Autónomo Refactoring
+* Ginger Jacome Hidalgo
